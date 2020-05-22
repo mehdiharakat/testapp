@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pressing", "Authentification\Pressing.csproj", "{D82FFC96-C7B4-4189-932E-2A800D30E2A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		VAL|Any CPU = VAL|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D82FFC96-C7B4-4189-932E-2A800D30E2A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82FFC96-C7B4-4189-932E-2A800D30E2A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82FFC96-C7B4-4189-932E-2A800D30E2A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82FFC96-C7B4-4189-932E-2A800D30E2A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82FFC96-C7B4-4189-932E-2A800D30E2A9}.VAL|Any CPU.ActiveCfg = VAL|Any CPU
+		{D82FFC96-C7B4-4189-932E-2A800D30E2A9}.VAL|Any CPU.Build.0 = VAL|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF880C3-CA63-404D-920C-2DFC601D1047}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\bin\Debug\Authentification.exe.config
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\bin\Debug\Authentification.exe
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\bin\Debug\Authentification.pdb
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\bin\Debug\MaterialSkin.dll
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Pressing.csprojAssemblyReference.cache
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Authentification.Authentification.resources
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Authentification.Properties.Resources.resources
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Pressing.csproj.GenerateResource.cache
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Pressing.csproj.CoreCompileInputs.cache
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Pressing.csproj.CopyComplete
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Authentification.exe
+C:\Users\Oussama-RS\source\repos\Authentification\Authentification\obj\Debug\Authentification.pdb
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\Authentification.exe.config
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\Authentification.exe
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\Authentification.pdb
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\MaterialSkin.dll
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Pressing.csprojAssemblyReference.cache
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.Authentification.resources
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.Properties.Resources.resources
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Pressing.csproj.GenerateResource.cache
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Pressing.csproj.CoreCompileInputs.cache
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Pressing.csproj.CopyComplete
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.exe
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.pdb
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\MaterialDesignColors.dll
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.F_Client.resources
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.F_Depot.resources
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.F_Retrait.resources
+C:\Users\Oussama-RS\Desktop\New folder (2)\trunk\Authentification\Authentification\obj\Debug\Authentification.Main_Form.resources
+C:\Authentification\Authentification\bin\Debug\Authentification.exe.config
+C:\Authentification\Authentification\bin\Debug\Authentification.exe
+C:\Authentification\Authentification\bin\Debug\Authentification.pdb
+C:\Authentification\Authentification\bin\Debug\MaterialDesignColors.dll
+C:\Authentification\Authentification\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Authentification\Authentification\bin\Debug\MaterialSkin.dll
+C:\Authentification\Authentification\bin\Debug\Zen.Barcode.Core.dll
+C:\Authentification\Authentification\bin\Debug\MaterialDesignColors.pdb
+C:\Authentification\Authentification\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Authentification\Authentification\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Authentification\Authentification\obj\Debug\Authentification.Authentification.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.Connexion.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.Form_Connexion.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.Form_Depot.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.F_Client.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.F_Retrait.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.Main.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.Main_Form.resources
+C:\Authentification\Authentification\obj\Debug\Authentification.Properties.Resources.resources
+C:\Authentification\Authentification\obj\Debug\Pressing.csproj.GenerateResource.cache
+C:\Authentification\Authentification\obj\Debug\Authentification.exe
+C:\Authentification\Authentification\obj\Debug\Authentification.pdb
+C:\Authentification\Authentification\obj\Debug\Authentification.Add_Trans.resources
+C:\Authentification\Authentification\obj\Debug\Pressing.csprojResolveAssemblyReference.cache
+C:\Authentification\Authentification\obj\Debug\Authentification.Articles.resources
